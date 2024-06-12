@@ -24,3 +24,13 @@ SO here is the Some photos of the App.
 
 
 ![Task 2 Restaurant Menu App Frames pdf-14](https://github.com/Aspharier/CODSOFT-Projects/assets/113495930/0aa267b6-3b82-447d-8b8a-685a57190d48)
+
+
+Task 3 Some Sample Screenshots :)
+
+![E commerce Website-1](https://github.com/Aspharier/CODSOFT-Projects/assets/113495930/974f5de6-031c-4710-b606-7f34c614d2d3)
+
+
+![E commerce Website-2](https://github.com/Aspharier/CODSOFT-Projects/assets/113495930/66d3bb0c-e181-4f92-bde7-eba9c1ed2573)
+
+![E commerce Website-3](https://github.com/Aspharier/CODSOFT-Projects/assets/113495930/dfff7803-6571-4683-831c-84056bbcef39)
